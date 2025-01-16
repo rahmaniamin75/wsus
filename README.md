@@ -1,4 +1,4 @@
-# wsus (Checking for installed updates including Cumulative ,.NET Framework , ...)
+# Checking for installed updates including Cumulative ,.NET Framework , ...
 ==========
 
 Enter the values ​​requested in the script.(OU,KB)
